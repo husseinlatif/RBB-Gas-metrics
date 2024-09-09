@@ -1,0 +1,17 @@
+{
+  "name": "RBB - Gas Usage Monitoring",
+  "version": "1.0.0",
+  "description": "Application for gas usage monitoring in RBB, using Block Explorer API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hussein Latif",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "lodash": "^4.17.21",
+    "node-cron": "^3.0.3"
+  }
+}
